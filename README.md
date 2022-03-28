@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Anotações
+
+## Property Binding
+
+Permite que um valor de uma variável seja atribuído ao elemento HTML. Com esse binding é possível associar uma propriedade de um elemento a um atributo da nossa classe Typescript.
+
+## Two-way data binding
+
+Garante uma comunicação bidirecional entre o componente e o DOM. Com esse binding é possível manter uma comunicação de duas vias entre uma propriedade de um elemento a um atributo da nossa classe Typescript.
+
+## Event binding
+
+Permite que um evento do DOM seja atribuído a um método do componente. Com esse binding é possível associar um evento de um elemento a um método da nossa classe Typescript.
