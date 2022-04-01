@@ -39,3 +39,5 @@ Garante uma comunicação bidirecional entre o componente e o DOM. Com esse bind
 ## Event binding
 
 Permite que um evento do DOM seja atribuído a um método do componente. Com esse binding é possível associar um evento de um elemento a um método da nossa classe Typescript.
+
+## Input()
